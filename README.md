@@ -36,7 +36,7 @@ python-dotenv for environment variable management
 
 1. Clone the Repository:
 
-git clone https://github.com/your-username/instagram-giveaway-selector.git
+git clone https://github.com/x0inna/Instagram-Giveaway-Selector.git
 cd instagram-giveaway-selector
 
 
